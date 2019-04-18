@@ -3,7 +3,7 @@
   "expoServerPort": null,
   "packagerPort": null,
   "packagerPid": null,
-  "expoServerNgrokUrl": null,
-  "packagerNgrokUrl": null,
-  "ngrokPid": null
+  "expoServerNgrokUrl": "https://3c-fjx.kaveinhk.confusion.exp.direct",
+  "packagerNgrokUrl": "https://packager.3c-fjx.kaveinhk.confusion.exp.direct",
+  "ngrokPid": 49959
 }
